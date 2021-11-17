@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 fdhgjsdbj
 sldkbusgd
 jbcuwbciwn ecwcw
+=======
+beuciuwec
+jbcuwbciwn ecwcw
+ddjcuwc
+>>>>>>> e67d153bf63d19e64ec491874f9ddf5321e71489
